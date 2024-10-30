@@ -13,4 +13,4 @@ Project Highlights
 
 Python Libraries: pandas, numpy, plotly, geopandas, scipy, matplotlib, seaborn
 
-NOTE: View the .html file to view the Choropleth map as github does not support interactive maps on ipynb files.
+NOTE: View the Choropleth image file to view the Choropleth map as github does not support interactive maps on ipynb files.
