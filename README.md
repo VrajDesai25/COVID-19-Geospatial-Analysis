@@ -11,5 +11,5 @@ Project Highlights
 
 -Geospatial Visualization: Created a choropleth map to show total COVID-19 cases per country, offering a geographical perspective on the pandemic's global impact.
 
-Python Libraries: pandas, numpy, plotly, geopandas, scipy, matplotlib
+Python Libraries: pandas, numpy, plotly, geopandas, scipy, matplotlib, seaborn
 
