@@ -1,1 +1,1 @@
-# COVID-19-Geospatial-Analysis
+# COVID-19 Geospatial-Analysis
